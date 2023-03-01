@@ -1,3 +1,4 @@
+//Multilevel Inheritance
 import java.util.*;
 interface A
 {
